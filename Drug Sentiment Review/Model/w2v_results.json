@@ -1,0 +1,1 @@
+{"Model":{"0":"Word2Vec","1":"Word2Vec Stacked","2":"Pretrained Word2Vec","3":"Pretrained Glove","4":"Fasttext"},"F1-Macro-Score":{"0":0.4891082372,"1":0.4847520015,"2":0.4572179655,"3":0.4629092617,"4":0.3661506881}}

@@ -1,0 +1,8 @@
+Things to improve on Spam SMS
+- Report -- Some typos
+- Code -- Could make the pipeline into a function called run_model(model, parameters) return 
+- Code -- Could make the print classification into a report
+- Code -- Could write the results into an image
+- Product -- Could build a character for spam filter
+- Product -- Could make spam filter result blue for ham and red for spam
+- Code -- Could create a requirement file for the code, divide the directory better
